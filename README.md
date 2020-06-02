@@ -1,6 +1,8 @@
 # Smart Challenge - Frontend em Vue.js
 Dashboard desenvolvido em Vue.js para a exibição, busca, filtragem e ordenação dos Customers
 
+Demonstração disponível em http://167.172.132.107/
+
 ## Tecnologias utilizadas
  - HTML, CSS e JavaScript
  - Vue.js, por sua rápida curva de aprendizado e performance
